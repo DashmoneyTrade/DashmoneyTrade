@@ -5,6 +5,5 @@
 - 📫 How to reach me ...
 
 <!---
-DashmoneyTrade/DashmoneyTrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Dashmoneytrade is a trading company that helps people make money from there comfort zones like any trading company.Its easier to use and you can access it very quickly.This platform will help you get what you want ....
+
